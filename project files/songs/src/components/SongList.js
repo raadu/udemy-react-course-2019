@@ -39,7 +39,7 @@ class SongList extends React.Component
 //we can call mapStateToProps anything
 const mapStateToProps = (state) =>
 {
-	console.log(state);
+	
 	return {songs: state.songs};
 };
 

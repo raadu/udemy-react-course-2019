@@ -9,7 +9,7 @@ const songsReducer = () =>
 		{title: 'All Stars', duration: '3:15'},
 		{title: 'I want it that way', duration: '1:05'}
 		]
-		//look here ; maybe missing after array
+		
 	);
 };
 
